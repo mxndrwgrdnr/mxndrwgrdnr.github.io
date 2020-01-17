@@ -1,1 +1,1 @@
-Hi there. Thanks for stopping by. While you're here, feel free to check out some of my [photography](https://mxndrwgrdnr.github.io/photos).
+Hi there. Thanks for stopping by. While I have you here, have a look at some of my [photography](https://mxndrwgrdnr.github.io/photos). Or if you're interested in working with me, check out my [CV](https://mxndrwgrdnr.github.io/cv).
