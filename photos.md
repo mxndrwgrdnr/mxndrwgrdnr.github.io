@@ -18,3 +18,5 @@ Most of the photos below were taken on a Nikon F3.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/147777791@N07/49325043368/in/photolist-2i9FJWd" title="13120002"><img src="https://live.staticflickr.com/65535/49325043368_da2189b1f7_c.jpg" width="800" height="531" alt="13120002"></a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/147777791@N07/49353436762/in/album-72157712581733853/" title="06_18420034"><img src="https://live.staticflickr.com/65535/49353436762_ac33285871_c.jpg" width="530" height="800" alt="06_18420034"></a>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/147777791@N07/49324723846/in/album-72157712500341552/" title="R1-04486-024A"><img src="https://live.staticflickr.com/65535/49324723846_5af6174d62_c.jpg" width="800" height="540" alt="R1-04486-024A"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
