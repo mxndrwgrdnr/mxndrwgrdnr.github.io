@@ -1,1 +1,1 @@
-[Photos](https://mxndrwgrdnr.github.io/photos)
+Thanks for stopping by.
