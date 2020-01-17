@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Photos"
+title: "Photography"
 permalink: /photos/
 ---
 Most of the photos below were taken on a Nikon F3.
