@@ -1,5 +1,4 @@
 ---
 ---
 
-@import "minima";
-tr  { background-color:transparent; }
+@import "minima-{{ site.minima.skin | default: 'classic' }}";
