@@ -247,13 +247,15 @@ table {
   border-collapse: collapse;
   border: 1px solid $table-border-color;
   tr {
-      background-color: transparent;
+    &:nth-child(even) {
+      background-color: $table-zebra-color;
+    }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: $table-header-bg-color;
+    background-color: transparent;
     border: 1px solid $table-header-border;
   }
   td {
