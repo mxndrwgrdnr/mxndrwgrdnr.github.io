@@ -1,5 +1,8 @@
 ---
 ---
 
-//@import "minima-{{ site.minima.skin | default: 'classic' }}";
-@import "minima"
+@import "minima-{{ site.minima.skin | default: 'classic' }}";
+th {
+    background-color: #ffffff;
+    border: 1px solid $table-header-border;
+  }
