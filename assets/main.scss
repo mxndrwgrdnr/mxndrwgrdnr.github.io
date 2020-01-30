@@ -2,6 +2,7 @@
 ---
 
 @import "minima";
+
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
@@ -18,7 +19,7 @@ table {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: $grey-color-light;
+    background-color: #fdfdfd;
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
