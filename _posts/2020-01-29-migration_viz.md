@@ -7,7 +7,7 @@
 This work was inspired by the awesome figures I came across in Simmons (1973)[^1]. I don't think my maps look as good as the originals, but they did highlight some patterns that ought to ring true for anyone familiar with the housing situation in the Bay Area.
 
 #### What are you, new?
-The most glaring and least suprising takeaway from the image above is probably that San Francisco residents are getting out of dodge. Not one Bay Area county is losing population to San Francisco. And yet, San Francisco has experienced roughly 6% population growth over this same time period[^2]. Thus most new residents of San Francisco are new to the region altogether, and now you know why it seems like you keep hearing more and more people say "San Fran".
+The most glaring and least suprising takeaway from the image above is probably that San Francisco residents are getting out of Dodge. Not one Bay Area county is losing population to San Francisco. And yet, San Francisco has experienced roughly 6% population growth over this same time period[^2]. Thus most new residents of San Francisco are new to the region altogether, and now you know why it seems like you keep hearing more and more people say "San Fran".
 
 More interesting, to me, is where these intra-regional migrants are going. The #1 regional destination for SF expats is, unsurpsingly, Alameda County, since Oakland is, after all, the Brooklyn to San Francisco's Manhattan in this tale. Even *more* interesting to me, though, are the second-order effects of the San Francisco out-migration that result in the huge outflow of people from Alameda County to Contra Costa County.
 
